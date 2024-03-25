@@ -1,0 +1,50 @@
+
+
+body{
+	color: #7a7abf;
+}
+.three{
+ height: 75px;
+ width:1250px;
+ background-color: white;
+ display: inline-block;
+ padding-right: 3px;
+box-shadow: 0px 0px 20px black;
+ border-radius: 10px;
+ margin-right: 4px;
+ position: relative;
+}
+input{
+	margin-top: 9px;
+	padding-right: 30px
+	padding-top:50px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	border-radius: 20px;
+	border-width: 20px
+	border-color:grey;
+	width:200px;
+	height:30px;
+}
+
+.one{
+ width: 700px;
+ height: 100px;
+ background-color: white;
+ border-radius: 10px;
+
+}
+.two{
+	padding-top: 30px;
+}
+h2{
+	font-family: bold;
+	font-style: impact;
+	text-align: left;
+	color: black;
+}
+hr{
+	margin-top: 5px;
+	color: grey;
+	background-color: grey;
+}
